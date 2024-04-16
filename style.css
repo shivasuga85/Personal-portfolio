@@ -420,7 +420,7 @@ gap: 2.5rem;
 }
 .portfolio  h2{
     font-size: 3.5rem;
-    padding-top: 50 px;
+    padding-top: 50px;
     text-align: center;
     
 }
@@ -506,6 +506,7 @@ height: 100%;
     }
     .portfolio h2{
         padding-top: 40px;
+        font-size: 25px;
     }
 }
 @media (max-width:320px) {
@@ -744,6 +745,7 @@ textarea::placeholder{
        .about-content h2{
         font-size:30px;
        }
+      
     } 
      @media (max-width:610px) {
         .about-content h2{
@@ -774,21 +776,27 @@ textarea::placeholder{
         }
       
         .hero-img img{
+            margin-top: 30px;
             height: 150px;
             width: 150px;
         }
         .hero-container h1{
-            font-size: 20px;
+            font-size: 25px;
+            margin-top: 6px;
         }
         .hero-container h3{
             font-size: 15px;
+            padding-top: 2px;
+       }
+       .info-side .part-2{
+        padding-top:50px;
        }
        .info-side .part-2 span{
         font-size:12px;
      }
-     .info-side{
-        margin-top: 10px;
-     }
+      .info-side{
+        margin-top: -60px;
+      }
 }
 @media (max-width:750px) {
     .about{
