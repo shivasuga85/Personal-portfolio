@@ -774,18 +774,17 @@ textarea::placeholder{
         }
       
         .hero-img img{
-            margin-top: -10px;
             height: 150px;
             width: 150px;
         }
         .hero-container h1{
-            font-size: 25px;
+            font-size: 20px;
         }
         .hero-container h3{
             font-size: 15px;
        }
        .info-side .part-2 span{
-        font-size:10px;
+        font-size:12px;
      }
      .info-side{
         margin-top: 10px;
