@@ -1,4 +1,4 @@
-var typed =new typed(".multiple-text",{
+var typed =new Typed(".multiple-text",{
     Strings:["Front-developer","Front-End Developer","Front-End Developer"],
     typeSpeed:100,
     backSpeed:100,
