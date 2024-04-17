@@ -313,6 +313,7 @@ button:hover{
         padding: 6px 30px ;
     
 }
+}
 @media (max-width:340px) {
     .info-side {
         font-size: 2rem;
