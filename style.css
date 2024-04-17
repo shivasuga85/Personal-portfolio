@@ -14,7 +14,7 @@ nav{
     position: fixed;
     background-color: #2c70af;
     padding: auto;
-    height: 80px;
+    height: 60px;
     width: 100%;
     animation: slideleft 1s ease forwards;
     animation-delay: 0.5s;
@@ -59,7 +59,7 @@ a.actiive, a:hover{
     transition: .5s;
 }
 .checkbtn{
-    font-size: 30px;
+    font-size: 24px;
     color: white;
     float: right;
     line-height: 80px;
