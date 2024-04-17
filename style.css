@@ -796,6 +796,10 @@ textarea::placeholder{
       .info-side{
         margin-top: 20px;
       }
+      .info-side p{
+        width: 100%;
+        font-size: 10px;
+      }
 }
 @media (max-width:750px) {
     .about{
