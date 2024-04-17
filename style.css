@@ -788,6 +788,11 @@ textarea::placeholder{
      .info-side{
         margin-top: 10px;
      }
+     .info-side p{
+        width: 100%;
+        font-size: 8px;
+        line-height: 1.5;
+     }
 }
 @media (max-width:750px) {
     .about{
