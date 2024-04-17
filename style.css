@@ -776,6 +776,7 @@ textarea::placeholder{
         }
       
         .hero-img img{
+            margin-top: -10px;
             height: 150px;
             width: 150px;
         }
@@ -786,11 +787,11 @@ textarea::placeholder{
             font-size: 15px;
        }
      .info-side{
-        margin-top: 10px;
+        margin-top: -40px;
      }
      .info-side p{
         width: 100%;
-        font-size: 8px;
+        font-size: 10px;
         line-height: 1.5;
      }
 }
