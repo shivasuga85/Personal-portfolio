@@ -1,2 +1,2 @@
 # Personal-portfolio
-This page using HTML ,CSS
+This page using HTML ,CSS,JAVASCRIPT
