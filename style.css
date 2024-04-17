@@ -781,7 +781,6 @@ textarea::placeholder{
         }
       
         .hero-img img{
-            margin-top: -10px;
             height: 150px;
             width: 150px;
         }
@@ -791,9 +790,7 @@ textarea::placeholder{
         .hero-container h3{
             font-size: 15px;
        }
-       /* .info-side .part-2{
-        padding-top:20px;
-       } */
+
        .info-side .part-2 span{
         font-size:14px;
      }
@@ -802,7 +799,7 @@ textarea::placeholder{
       }
       .info-side p{
         width: 100%;
-        font-size: 20px;
+        font-size: 12px;
         line-height: 1.5;
       }
 }
