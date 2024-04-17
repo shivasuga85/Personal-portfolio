@@ -170,7 +170,7 @@ i:hover{
  .btn{
     background-color: #0B60B0;
     margin-top: 30px;
-    padding: 15px 60px;
+    padding: 20px 70px;
     border: none;
     border-radius: 30px;
     cursor: pointer;
@@ -310,7 +310,7 @@ button:hover{
         width: 100%;
     }
     .btn{
-        padding: 6px 30px;
+        padding: 15px 30px;
     
 }
 }
