@@ -305,7 +305,7 @@ button:hover{
 }
 @media (max-width:650px) {
     .info-side {
-        margin-top: -20px;
+        margin-top:-40px;
         font-size:1rem;
         width: 100%;
     }
