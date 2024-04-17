@@ -755,7 +755,8 @@ textarea::placeholder{
             width: 100%;          
         }
        .btn{
-        padding: 10px 40px;
+        margin-top: -10px;
+        padding: 12px 40px;
        }
         .hero-container i{
             margin-top: -120px;
