@@ -14,7 +14,7 @@ nav{
     position: fixed;
     background-color: #2c70af;
     padding: auto;
-    height: 58px;
+    height: 60px;
     width: 100%;
     animation: slideleft 1s ease forwards;
     animation-delay: 0.5s;
@@ -26,7 +26,7 @@ nav{
 }
 label.logo{
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
@@ -59,7 +59,7 @@ a.actiive, a:hover{
     transition: .5s;
 }
 .checkbtn{
-    font-size: 24px;
+    font-size: 20px;
     color: white;
     float: right;
     line-height: 80px;
@@ -170,7 +170,7 @@ i:hover{
  .btn{
     background-color: #0B60B0;
     margin-top: 30px;
-    padding: 20px 70px;
+    padding: 15px 60px;
     border: none;
     border-radius: 30px;
     cursor: pointer;
@@ -802,7 +802,7 @@ textarea::placeholder{
       }
       .info-side p{
         width: 100%;
-        font-size: 17px;
+        font-size: 20px;
         line-height: 1.5;
       }
 }
