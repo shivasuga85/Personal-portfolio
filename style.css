@@ -14,7 +14,7 @@ nav{
     position: fixed;
     background-color: #2c70af;
     padding: auto;
-    height: 55px;
+    height: 58px;
     width: 100%;
     animation: slideleft 1s ease forwards;
     animation-delay: 0.5s;
