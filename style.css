@@ -14,7 +14,7 @@ nav{
     position: fixed;
     background-color: #2c70af;
     padding: auto;
-    height: 60px;
+    height: 50px;
     width: 100%;
     animation: slideleft 1s ease forwards;
     animation-delay: 0.5s;
@@ -776,12 +776,12 @@ textarea::placeholder{
         }
       
         .hero-img img{
+            margin-top: -20px;
             height: 150px;
             width: 150px;
         }
         .hero-container h1{
             font-size: 25px;
-            margin-top: 3px;
         }
         .hero-container h3{
             font-size: 15px;
@@ -793,11 +793,11 @@ textarea::placeholder{
         font-size:14px;
      }
       .info-side{
-        margin-top: -40px;
+        margin-top: -60px;
       }
       .info-side p{
         width: 100%;
-        font-size: 8px;
+        font-size: 10px;
         line-height: 1.3;
       }
 }
