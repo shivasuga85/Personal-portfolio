@@ -786,7 +786,7 @@ textarea::placeholder{
             font-size: 15px;
        }
      .info-side{
-        margin-top: -50px;
+        margin-top: 10px;
      }
 }
 @media (max-width:750px) {
