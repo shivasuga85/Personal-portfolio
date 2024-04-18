@@ -304,9 +304,9 @@ button:hover{
     }
 }
 @media (max-width:650px) {
-    .info-side {
-     /* margin-top: 50px; */
-    }
+   .hero-img img{
+    margin-top: -10px;
+   }
 }
 @media (max-width:380px) {
      .info-side{
