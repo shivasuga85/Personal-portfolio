@@ -14,7 +14,7 @@ nav{
     position: fixed;
     background-color: #2c70af;
     padding: auto;
-    height: 80px;
+    height: 65px;
     width: 100%;
     animation: slideleft 1s ease forwards;
     animation-delay: 0.5s;
@@ -305,10 +305,19 @@ button:hover{
 }
 @media (max-width:650px) {
     .info-side {
-        margin-top:-40px;
-        font-size:1rem;
-        width: 100%;
+     margin-top: 50px;
     }
+}
+@media (max-width:380px) {
+     .info-side{
+        margin-top: -50px;
+     }
+     .hero-img{
+        margin-top: -20px;
+     }
+     .info-side p {
+        font-size: 15px;
+     }
 }
 @media (max-width:340px) {
     .info-side {
@@ -755,7 +764,6 @@ textarea::placeholder{
             width: 100%;          
         }
        .btn{
-        margin-top: -10px;
         padding: 12px 40px;
        }
         .hero-container i{
@@ -777,7 +785,7 @@ textarea::placeholder{
         }
       
         .hero-img img{
-            /* margin-top: -20px; */
+            margin-top: -10px;
             height: 150px;
             width: 150px;
         }
@@ -788,11 +796,11 @@ textarea::placeholder{
             font-size: 15px;
        }
      .info-side{
-        margin-top: -60px;
+        margin-top: -50px;
      }
      .info-side p{
         width: 100%;
-        font-size: 8px;
+        font-size: 10px;
         line-height: 1.5;
      }
 }
