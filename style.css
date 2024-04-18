@@ -785,7 +785,7 @@ textarea::placeholder{
         }
       
         .hero-img img{
-            margin-top: -10px;
+            margin-top: -2px;
             height: 150px;
             width: 150px;
         }
@@ -800,7 +800,7 @@ textarea::placeholder{
      }
      .info-side p{
         width: 100%;
-        font-size: 10px;
+        font-size: 12px;
         line-height: 1.5;
      }
 }
