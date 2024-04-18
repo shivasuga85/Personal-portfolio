@@ -315,6 +315,9 @@ button:hover{
      .info-side p {
         font-size: 15px;
      }
+     .hero-img img{
+        margin-top: -10px;
+       }
 }
 @media (max-width:340px) {
     .info-side {
@@ -511,7 +514,7 @@ height: 100%;
        align-items: center;
     }
     .portfolio h2{
-        padding-top: 30px;
+        padding-top: 26px;
     }
 }
 @media (max-width:320px) {
