@@ -305,15 +305,12 @@ button:hover{
 }
 @media (max-width:650px) {
     .info-side {
-     margin-top: 50px;
+     /* margin-top: 50px; */
     }
 }
 @media (max-width:380px) {
      .info-side{
         margin-top: -50px;
-     }
-     .hero-img{
-        margin-top: -20px;
      }
      .info-side p {
         font-size: 15px;
