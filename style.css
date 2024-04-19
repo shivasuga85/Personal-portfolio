@@ -394,7 +394,8 @@ button:hover{
     text-align: center;
     transition: 0.5s;
     border: 0.3rem solid rgb(49, 49, 49);
-    box-shadow: 2px 3px 5px green,5px 6px 5px rgb(224, 31, 31);
+    box-shadow: 2px 3px 10px white;
+
 }
 .service-box i{
     font-size: 3rem;
@@ -411,8 +412,7 @@ button:hover{
     margin:3rem 0 3rem;
 }
 .service-container .service-box:hover{
-    border-color: #0B60B0;
-     box-shadow: 2px 3px 10px rgb(30, 214, 30);
+    box-shadow: 8px 8px 10px green,8px 5px 10px rgb(224, 31, 31)inset;
     transform: scale(1);
 }
 
@@ -809,6 +809,9 @@ textarea::placeholder{
         width: 100%;
         font-size: 12px;
         line-height: 1.5;
+     }
+     .info-side i{
+        margin-top: -90px;
      }
 }
 @media (max-width:750px) {
