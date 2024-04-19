@@ -304,6 +304,11 @@ button:hover{
         height: auto;
     }
 }
+@media (max-width:400px) {
+    .hero-img img{
+        margin-top: -10px;
+    }
+}
 @media (max-width:380px) {
      .info-side{
         margin-top: -50px;
