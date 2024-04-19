@@ -378,7 +378,7 @@ button:hover{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
- gap: 1rem;
+ gap: 2rem;
   margin-bottom: 60px;
 }
 .services h2{
@@ -389,11 +389,12 @@ button:hover{
 .service-container .service-box{
     margin-top: 30px;
     background-color: rgb(49, 49, 49);
-    padding: 1rem 0.5rem 1rem;
+    padding: 1rem 0.5rem;
     border-radius: 2rem;
     text-align: center;
     transition: 0.5s;
     border: 0.3rem solid rgb(49, 49, 49);
+    box-shadow: 2px 3px 5px green,5px 6px 5px rgb(224, 31, 31);
 }
 .service-box i{
     font-size: 3rem;
@@ -411,6 +412,7 @@ button:hover{
 }
 .service-container .service-box:hover{
     border-color: #0B60B0;
+     box-shadow: 2px 3px 10px rgb(30, 214, 30);
     transform: scale(1);
 }
 
