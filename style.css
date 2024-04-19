@@ -304,11 +304,6 @@ button:hover{
         height: auto;
     }
 }
-@media (max-width:650px) {
-   .hero-img img{
-    margin-top: -2px;
-   }
-}
 @media (max-width:380px) {
      .info-side{
         margin-top: -50px;
@@ -316,9 +311,6 @@ button:hover{
      .info-side p {
         font-size: 15px;
      }
-     .hero-img img{
-        margin-top: -10px;
-       }
 }
 @media (max-width:340px) {
     .info-side {
