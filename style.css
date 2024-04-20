@@ -83,12 +83,12 @@ nav ul li a:hover{
     width: 300px;
     padding: 5px;
     margin-left: 80px;
-     border: 4px solid #0B60B0;
+     /* border: 4px solid #0B60B0; */
      border-radius: 50%;
      animation: zoomIn 1s ease forwards;
     animation-delay: 1s;
     opacity: 0;
-
+   box-shadow: 3px 4px 4px 0px white,7px 7px 10px 0px #0B60B0 inset;
 }
 .info-side{
     margin-top: 70px;
@@ -135,6 +135,7 @@ nav ul li a:hover{
     animation: zoomIn 1s ease forwards;
     animation-delay: 1s;
     opacity: 0;
+    
 }
  .info-side .fa-whatsapp{
     color: green;
@@ -516,7 +517,7 @@ height: 100%;
        align-items: center;
     }
     .portfolio h2{
-        padding-top: 20px;
+        padding-top: 15px;
     }
 }
 @media (max-width:320px) {
@@ -790,6 +791,7 @@ textarea::placeholder{
         .about-content h5{
             margin-top: -5px;
             width: 100%;
+            font-size: 13px;
         }
         .hero-img img{
             height: 150px;
@@ -887,7 +889,9 @@ textarea::placeholder{
         .hero-container p{
             font-size: 17px;
         }
-       
+        .hero-img img{
+            margin-top: 60px;
+        }
         .info-side .fa-whatsapp{
             font-size: 20px;
          
@@ -908,11 +912,7 @@ textarea::placeholder{
          width: 100%;
         }
         .about-content h3{
-            font-size: 20px;
-        }
-        .about-content p{
-            font-size: 20px;
-            width: 80%;
+            font-size: 15px;
         }
         .about-img img{
             margin-right: 30px;
